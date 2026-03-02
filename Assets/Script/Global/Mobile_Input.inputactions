@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Mobile_Input",
+    "maps": [
+        {
+            "name": "Mobile",
+            "id": "43c76500-d18e-40e3-8738-ba1d1423f47e",
+            "actions": [
+                {
+                    "name": "Tap",
+                    "type": "Button",
+                    "id": "8eda4d2a-136f-4d2a-8295-6604dd97562b",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e3e1c019-3ee2-47c3-a586-2b0f183e1b6b",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
